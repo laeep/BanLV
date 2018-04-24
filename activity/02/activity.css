@@ -1,0 +1,34 @@
+body { 
+  background: url(images/bg.jpg) ;
+}
+
+div#tableContainer {
+	display: table;
+}
+
+div#tableRow {
+	display: table-row;
+}
+
+section#left {
+    display: table-cell;
+    width: 15%;
+ vertical-align: top;
+}
+
+section#main {
+  display: table-cell;
+  vertical-align: top;
+}
+
+aside {
+  display: table-cell;
+  vertical-align: top;
+}
+
+p#btn {
+   text-align:center;
+}
+p#review {
+   text-align:center;
+}
